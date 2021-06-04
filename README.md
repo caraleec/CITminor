@@ -24,7 +24,7 @@
 <br>
 
 <h3>PROJECTS</h3>
-<a href="google.com">Project 1</a>: Use the command line interface (CLI) of your operating system to create a number of folders, list the folders in a tree-like structure, use the ping command, and practice using the break keyboard sequence. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+<a href="https://caraleec.github.io/cit281-p1/">Project 1</a>: Use the command line interface (CLI) of your operating system to create a number of folders, list the folders in a tree-like structure, use the ping command, and practice using the break keyboard sequence. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 <br>
 <a href="google.com">Project 2</a>: Use the command line interface (CLI) of your operating system to create and work with a git repository (repo). Refactor the JavaScript program from the previous project to practice using git and practice refactoring. Use git via VSCode, create and use a .gitignore file and diff split screen.
 <br>
